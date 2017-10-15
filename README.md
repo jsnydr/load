@@ -13,7 +13,7 @@ wrap your project's root JavaScript file (maybe `app.js`) in a function passed t
      load('./helpers/start.js'); // start the server with its various callbacks
      console.log("...listener process started!");
     }); //<-
-    // (don't remove that last end-of-line comment - the hack needs it closing-snip-marker)
+    // (don't remove that last end-of-line comment - the hack needs its closing-snip-marker)
 
 yes, at this time, the method requires programmer-inserted snip-start (`//->`) and snip-end (`//<-`) marks
 
